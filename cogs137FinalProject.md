@@ -1,7 +1,4 @@
-COGS 137 Project - The Makings of a Great Scooby-Doo Show
-================
-Evan Eguchi
-2022-02-03
+# COGS 137 Project - The Makings of a Great Scooby-Doo Show
 
 ## Introduction
 
